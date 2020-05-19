@@ -28,7 +28,7 @@ Event indicating that the contents of the file have been written.
 
 ### After Unzip
 
-Event indicating that the zip file have been created.
+Event indicating that the zip file have been unzipped.
 
 <div class="block" ai2-block="event" not-rendered="true" value="%7B%22componentName%22:%20%22File%22,%20%22name%22:%20%22After%20Unzip%22,%20%22param%22:%20%5B%5D%7D"></div>
 
